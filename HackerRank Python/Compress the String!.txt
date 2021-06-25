@@ -1,0 +1,11 @@
+from itertools import groupby
+
+s = input()
+print(*[(len(list(c)), int(k)) for k, c in groupby(s)])
+
+
+IP:
+1222311
+
+OP:
+(1, 1) (3, 2) (1, 3) (2, 1)

@@ -1,0 +1,41 @@
+if __name__ == '__main__':      
+    N = int(input())
+    li = [];
+    for i in range(0,N):
+        ip = input().split()
+        if ip[0] == "print":
+            print(li)
+        elif ip[0] == "insert":
+            li.insert(int(ip[1]),int(ip[2]))
+        elif ip[0] == "remove":
+            li.remove(int(ip[1]))
+        elif ip[0] == "pop":
+            li.pop()
+        elif ip[0] == "append":
+            li.append(int(ip[1]))
+        elif ip[0] == "sort":
+            li.sort()
+        else:
+            li.reverse()
+
+
+
+IP:
+12
+insert 0 5
+insert 1 10
+insert 0 6
+print
+remove 6
+append 9
+append 1
+sort
+print
+pop
+reverse
+print
+
+OP:
+[6, 5, 10]
+[1, 5, 9, 10]
+[9, 5, 1]

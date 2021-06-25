@@ -1,0 +1,25 @@
+M = int(input())
+MS = set(map(int, input().split()))
+N = int(input())
+NS = set(map(int, input().split()))
+
+D1 = MS.difference(NS)
+D2 = NS.difference(MS)
+
+op = D1.union(D2)
+#print(op)
+for i in sorted(list(op)):
+    print(i)
+        
+
+IP:
+4
+2 3 5 9
+4
+2 3 11 13
+
+OP:
+5
+9
+11
+13

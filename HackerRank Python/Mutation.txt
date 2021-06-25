@@ -1,0 +1,25 @@
+def mutate_string(string, position, character):
+    string = string[:position] + character + string[position+1:]
+    
+    #OR
+    
+    #l = list(string)
+    #l[5] = 'k'
+    #string = ''.join(l)
+    return string
+
+if __name__ == '__main__':
+    s = input()
+    i, c = input().split()
+    s_new = mutate_string(s, int(i), c)
+    print(s_new)
+
+IP:
+STDIN           Function
+-----           --------
+abracadabra     s = 'abracadabra'
+5 k             position = 5, character = 'k'
+
+
+OP:
+abrackdabra
