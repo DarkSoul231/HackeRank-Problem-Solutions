@@ -1,2 +1,3 @@
 # HackeRank-Problem-Solutions
-# HackerRank Python  This is the list of my accepted HackerRank solutions
+
+This is the Repo of my accepted HackerRank solutions.
