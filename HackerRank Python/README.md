@@ -7,7 +7,7 @@ This is the list of my accepted HackerRank solutions for the Python section, sol
 + The first column is the name of the problem. It is linked to each problem page in HackerRank.
 + The second column shows the problem's difficulty in HackerRank.<br/>
 + The third column has my solutions for each problem. Each solution is linked to my Java code in this repository. The list of abbreviations in this section is provided bellow.
-+ The last column is the date when I solved the problem last time.
+
 
 
 ## Log
@@ -33,5 +33,5 @@ Starts HackerRank on 06/01/2021
 | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/itertools.product().txt) |
 | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Lists.txt) |
 | [Mutation](https://www.hackerrank.com/challenges/python-mutations/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Mutation.txt) |
-| [Mutation](https://www.hackerrank.com/challenges/python-mutations/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Mutation.txt) |
-| [Mutation](https://www.hackerrank.com/challenges/python-mutations/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Mutation.txt) |
+| [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Nested%20Lists.txt) |
+| [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Python%20If-Else.txt) | 
