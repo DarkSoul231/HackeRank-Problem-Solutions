@@ -32,6 +32,7 @@ Starts HackerRank on 06/01/2021
 | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/itertools.permutations().txt) |
 | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/itertools.product().txt) |
 | [Lists](https://www.hackerrank.com/challenges/python-lists/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Lists.txt) |
+| [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Loops.txt) |
 | [Mutation](https://www.hackerrank.com/challenges/python-mutations/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Mutation.txt) |
 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Nested%20Lists.txt) |
 | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Python%20If-Else.txt) | 
@@ -45,3 +46,4 @@ Starts HackerRank on 06/01/2021
 | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | Medium | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/The%20Minion%20Game.txt) | 
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Tuples.txt) | 
 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/What's%20Your%20Name.txt) | 
+| [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | Medium | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Leap%20or%20Not.txt) | 
