@@ -1,0 +1,73 @@
+*/Given a square matrix, calculate the absolute difference between the sums of its diagonals./*
+
+// Without Using Function...
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+int main()
+{
+    int N , a[100][100];
+    cin >> N;
+    int i,j,d1=0,d2=0;
+    
+    for(i = 0; i < N; ++i){
+    
+        for(j = 0; j < N; ++j){
+            cin >> a[i][j];
+        }
+    }
+    for(i = 0; i < N; ++i){ 
+        
+        d1+=a[i][i];
+        d2+=a[i][N-1-i];  
+    }
+    
+    int b=abs(d1-d2);
+    cout << b;
+}
+
+
+// Using Function...
+
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+int diagonalDifference(){
+    int n , a[100][100], absolute;
+    cin >> n;
+    int i,j,Diagonal1=0,Diagonal2=0;
+    
+    for( i = 0; i < n; ++i){
+    
+        for( j = 0; j < n; ++j){
+            cin >> a[i][j];
+        }
+    }
+    for(i = 0; i < n; ++i){ 
+        
+        Diagonal1+= a[i][i];
+        Diagonal2+= a[i][n-1-i];  
+    }
+    return absolute = abs(Diagonal1 - Diagonal2);
+}
+
+int main()
+{
+    cout<< diagonalDifference();
+}
+
+
+
+IP:
+3
+11 2 4
+4 5 6
+10 8 -12
+
+OP:
+15

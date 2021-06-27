@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+void miniMaxSum() {
+    
+    long long a[7], s = 0;
+    
+    for(int i = 1; i <= 5; ++i) {
+        cin >> a[i];
+        s += a[i];
+    }   
+    sort(a+1, a+6);
+    cout << s-a[5] <<" " << s-a[1] << endl;
+
+}
+
+int main()
+{
+    miniMaxSum();
+}
+
+
+IP:
+1 2 3 4 5
+
+OP:
+10 14

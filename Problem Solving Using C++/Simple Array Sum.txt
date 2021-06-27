@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+int simpleArraySum(int a[], int n){
+   int sum = 0;
+   for(int i = 0; i< n; ++i){
+       sum += a[i];
+   }
+   return sum;
+}
+int main(){
+    int n;
+    cin >> n;
+    int a[n];
+    for(int i = 0; i< n; ++i){
+        cin>> a[i];
+    }
+    cout<<simpleArraySum(a, n);
+}
+
+
+IP:
+6
+1 2 3 4 10 11
+
+OP:
+31
