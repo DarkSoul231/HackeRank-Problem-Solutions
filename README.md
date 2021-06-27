@@ -6,9 +6,9 @@
 The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entirely provided by [Omkar Bhusnale](https://www.hackerrank.com/stavalpha4)
    
 ## Table of Contents
-1.[Python](#python)
+[Python](#python)
    
-   2.[Python Certification (Basic))](#python-certification-basic)
+[Python Certification (Basic))](#python-certification-basic)
 
 <hr>
    
@@ -50,6 +50,6 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
  ## Python Certification (Basic)
 | Problem Name | Solutions |
 | --- | --- |
-| [FizzBuzz] | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Python%20Certification%20(Basic)/FizzBuzz.txt) |
-| [String Representation of Object] | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Python%20Certification%20(Basic)/String%20Representation%20of%20Object.txt) |
+| FizzBuzz | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Python%20Certification%20(Basic)/FizzBuzz.txt) |
+| String Representation of Object | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Python%20Certification%20(Basic)/String%20Representation%20of%20Object.txt) |
   
