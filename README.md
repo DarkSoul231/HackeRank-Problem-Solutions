@@ -23,7 +23,7 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 + The first column is Serial Number.
 + The second column is the name of the problem. It is linked to each problem page in HackerRank.
 + The third column shows the problem's difficulty in HackerRank.<br/>
-+ The fourth column has my solutions for each problem. Each solution is linked to my Java code in this repository. The list of abbreviations in this section is provided bellow.
++ The fourth column has my solutions for each problem. Each solution is linked to this repository. The list of abbreviations in this section is provided bellow.
 
 #
 
