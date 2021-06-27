@@ -14,7 +14,7 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 2. [Python](#python)
 <hr>  
 
-
+3. [Problem Solving Using C++](#)
 
 ## Python Certification (Basic)  [ [CERTIFICATE](https://raw.githubusercontent.com/DarkSoul231/HackeRank-Problem-Solutions/main/Python%20Certification%20(Basic)/HackerRank%20Python(Basic).png) ]
 
@@ -59,4 +59,21 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 | 27 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Tuples.txt) | 
 | 28 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/What's%20Your%20Name.txt) | 
 | 29 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | Medium | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Leap%20or%20Not.txt) | 
-   
+
+<hr>
+
+## Problem Solving Using C++
+| SR.NO| Problem Name | Difficulty | Solutions |
+| -- | --- | :---: | --- |
+| 1 | [Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string/problem	) | Advance | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Ashton%20and%20String.txt) |
+| 2 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/A%20Very%20Big%20Sum.txt) |
+| 3 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Birthday%20Cake%20Candles.txt) |
+| 4 | [Compare the Triplets](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Compare%20the%20Triplets.txt) |
+| 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Diagonal%20Difference.txt) |
+| 6 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Grading%20Students.txt) |
+| 7 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Mini-Max%20Sum.txt) |
+| 8 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Plus%20Minus.txt) |
+| 9 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Simple%20Array%20Sum.txt) |
+| 10 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Solve%20Me%20First.txt) |
+| 11 | [Staicase](https://www.hackerrank.com/challenges/staircase/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Staicase.txt) |
+| 12 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Time%20Conversion.txt) |
