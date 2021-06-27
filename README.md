@@ -10,11 +10,11 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 ## Table of Contents
 1. [Python Certification (Basic))](#python-certification-basic---certificate-)
 
+2. [Python](#python) 
 
-2. [Python](#python)
-<hr>  
+3. [Problem Solving Using C++](#problem-solving-using-cpp)
 
-3. [Problem Solving Using C++](#)
+<hr>
 
 ## Python Certification (Basic)  [ [CERTIFICATE](https://raw.githubusercontent.com/DarkSoul231/HackeRank-Problem-Solutions/main/Python%20Certification%20(Basic)/HackerRank%20Python(Basic).png) ]
 
@@ -62,7 +62,7 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 
 <hr>
 
-## Problem Solving Using C++
+## Problem Solving Using CPP
 | SR.NO| Problem Name | Difficulty | Solutions |
 | -- | --- | :---: | --- |
 | 1 | [Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string/problem	) | Advance | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Problem%20Solving%20Using%20C%2B%2B/Ashton%20and%20String.txt) |
