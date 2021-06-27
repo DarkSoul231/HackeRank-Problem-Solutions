@@ -8,7 +8,7 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 <hr>
 
 ## Table of Contents
-1. [Python Certification (Basic))](#python-certification-basic)
+1. [Python Certification (Basic))](#python-certification-basic---certificate-)
 
 
 2. [Python](#python)
