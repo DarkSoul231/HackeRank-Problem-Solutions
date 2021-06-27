@@ -8,7 +8,9 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 ## Table of Contents
 1.[Python](#HackerRank-Python)
    
-   2.[Python Certification(Basic)](#Python Certification(Basic))
+   2.[Python Certification (Basic))](#Python-Certification-(Basic))
+
+<hr>
    
 ## Python
 | Problem Name | Difficulty | Solutions |
@@ -42,9 +44,12 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Tuples.txt) | 
 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/What's%20Your%20Name.txt) | 
 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | Medium | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Leap%20or%20Not.txt) | 
+   
 <hr>
-<br>
   
- ## Python Certification(Basic)
-| Problem Name | Difficulty | Solutions |
-| --- | :---: | --- |
+ ## Python Certification (Basic)
+| Problem Name | Solutions |
+| --- | --- |
+| [FizzBuzz] | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Python%20Certification%20(Basic)/FizzBuzz.txt) |
+| [String Representation of Object] | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Python%20Certification%20(Basic)/String%20Representation%20of%20Object.txt) |
+  
