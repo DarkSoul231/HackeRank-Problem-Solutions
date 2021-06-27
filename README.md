@@ -5,7 +5,7 @@
 
 The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entirely provided by [Omkar Bhusnale](https://www.hackerrank.com/stavalpha4)
 </div>
-<hr>
+#
 
 ## Table of Contents
 1. [Python Certification (Basic))](#python-certification-basic---certificate-)
@@ -14,7 +14,17 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 
 3. [Problem Solving Using C++](#problem-solving-using-cpp)
 
-<hr>
+#
+
+
+## How to Use the List
+
++ The first column is Serial Number.
++ The second column is the name of the problem. It is linked to each problem page in HackerRank.
++ The third column shows the problem's difficulty in HackerRank.<br/>
++ The fourth column has my solutions for each problem. Each solution is linked to my Java code in this repository. The list of abbreviations in this section is provided bellow.
+
+#
 
 ## Python Certification (Basic)  [ [CERTIFICATE](https://raw.githubusercontent.com/DarkSoul231/HackeRank-Problem-Solutions/main/Python%20Certification%20(Basic)/HackerRank%20Python(Basic).png) ]
 
@@ -25,7 +35,7 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 | 1 | FizzBuzz | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Python%20Certification%20(Basic)/FizzBuzz.txt) |
 | 2 | String Representation of Object | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/Python%20Certification%20(Basic)/String%20Representation%20of%20Object.txt) |
   
- <hr>
+#
  
 ## Python
 | SR.NO| Problem Name | Difficulty | Solutions |
@@ -60,7 +70,7 @@ The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entir
 | 28 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name/problem) | Easy | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/What's%20Your%20Name.txt) | 
 | 29 | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | Medium | [Solution](https://github.com/DarkSoul231/HackeRank-Problem-Solutions/blob/main/HackerRank%20Python/Leap%20or%20Not.txt) | 
 
-<hr>
+#
 
 ## Problem Solving Using CPP
 | SR.NO| Problem Name | Difficulty | Solutions |
