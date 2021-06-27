@@ -6,9 +6,9 @@
 The entire [Hacker-Rank](https://www.hackerrank.com) problem solutions are entirely provided by [Omkar Bhusnale](https://www.hackerrank.com/stavalpha4)
    
 ## Table of Contents
-1.[Python](#HackerRank-Python)
+1.[Python](#python)
    
-   2.[Python Certification (Basic))](#Python-Certification-(Basic))
+   2.[Python Certification (Basic))](#python-certification-basic)
 
 <hr>
    
